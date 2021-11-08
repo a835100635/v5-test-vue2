@@ -10,6 +10,7 @@
     "@wangeditor/core": "^0.10.1",
     "@wangeditor/editor": "^0.10.3",
     "@wangeditor/editor-cattle": "^0.8.0",
+    "@wangeditor/editor-for-vue": "^0.6.11",
     "core-js": "^3.6.5",
     "slate": "^0.66.5",
     "snabbdom": "^3.1.0",
